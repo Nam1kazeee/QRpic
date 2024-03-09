@@ -1,0 +1,46 @@
+body{
+    background-color: #D5E1EF;
+}
+.Main{
+    background-color:white; height: 497px;
+    width: 320px;
+ border: 2px solid; border-color: white;
+ border-radius: 20px;
+ margin-left: 400px;
+
+}
+.Second{ background-color:#2C7DFA;
+    box-sizing: 288px;
+    height: 288px; 
+    width: 288px;
+    margin:16px  ;
+    border: 1px solid; border-color: #2C7DFA;
+    border-radius: 10px;
+}
+
+.QR{
+    padding: 64px 64px 64px 64px;
+}
+.Third{
+    background-color: white;
+    margin:  16px;
+    width: 288px;
+    height:     56px;
+}
+.Firsts{
+    text-align: center;   
+    font-weight: bold;
+    color:#1F314F;
+    font-size: 22px;
+    font-family: 'Outfit';
+
+}
+.Fourth{
+    background-color: white;
+    width: 257px;
+    height: 57px;
+    margin: 32px;
+    text-align: center;
+    color: #7D889E;
+    font-family: 'Outfit';
+}
